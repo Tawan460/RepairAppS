@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { TabView, SceneMap, TabBar } from 'react-native-tab-view';
 
 
-// Data for search suggestion (replace with your actual data)
+// Data for search suggestion (replace with your actual data)DDD
 const data = [
   { id: 1, name: 'Repair request 1' },
   { id: 2, name: 'Repair request 2' },
